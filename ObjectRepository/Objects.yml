@@ -1,0 +1,15 @@
+Home_Page:
+   Search_TextBox: "//input[@id='twotabsearchtextbox']"
+   Submit_Button: "//input[@type='submit']"
+
+Result_Page:
+   Selenium_Book_Link: "//span[contains(text(),'Webdriver 3.0')]"
+   Java_Book_Link: "//span[contains(text(),'Java: A Beginner's Guide, Eighth Edition')]"
+   CSharp_Book_Link: "//span[contains(text(),'Learn C# in One Day')]"
+   Book_Price_Element: "//span[@class='a-color-base']/span"
+   
+Checkout_Page:
+   Buy_Button: "//input[@name='purchase']"
+   Details_Button: "//input[@name='details']"
+   
+   
